@@ -1,4 +1,4 @@
-# JetBrains splash screens
+# JetBrains splash screens[2023.3]
 
 JetBrains IDE splash screens(启动画面) <https://gitee.com/feuyeux/splash-screens>
 
