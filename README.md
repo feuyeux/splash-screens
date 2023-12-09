@@ -6,6 +6,8 @@ JetBrains IDE splash screens(启动画面) <https://gitee.com/feuyeux/splash-scr
 
 ![](img/clion_splash@2x.png)
 
+![](img/nova_splash@2x.png)
+
 Path(路径)："lib/product.jar/artwork/splash@2x.png"
 
 ## 2 [GoLand](https://www.jetbrains.com/go/ )
@@ -41,7 +43,7 @@ Path(路径)："lib/app.jar/pycharm_logo@2x.png" | "lib/product.jar/artwork/pych
 
 ![](img/rider_splash@2x.png)
 
-Path(路径)："lib/app.jar/rider/artwork/release/splash@2x.png"
+Path(路径)："lib/product.jar/rider/artwork/release/splash@2x.png"
 
 ## 6 [RustRover](https://www.jetbrains.com/rustrover/ )
 
