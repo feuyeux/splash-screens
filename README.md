@@ -24,9 +24,9 @@ Path(路径)："lib/app.jar/idea_community_logo@2x.png"
 
 ## IntelliJ [IDEA](https://www.jetbrains.com/idea/) Ultimate
 
-![idea](img/idea_logo@2x.pngx)
+![idea](img/idea_logo@2x.png)
 
-Path(路径)："lib/app.jar/idea_logo@2x.png"
+Path(路径)："lib/product.jar/idea_logo@2x.png"
 
 ## 4 [PyCharm](https://www.jetbrains.com/pycharm/ ) Community
 
