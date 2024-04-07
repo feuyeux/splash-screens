@@ -36,7 +36,7 @@ Path(路径)："lib/app.jar/pycharm_core_logo@2x.png" | "lib/product.jar/artwork
 
 ## [PyCharm](https://www.jetbrains.com/pycharm/ ) Professional
 
-![pycharm](img/pycharm_logo@2x.pngx)
+![pycharm](img/pycharm_logo@2x.png)
 
 Path(路径)："lib/app.jar/pycharm_logo@2x.png" | "lib/product.jar/artwork/pycharm_logo@2x.png"
 
