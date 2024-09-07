@@ -4,7 +4,7 @@ JetBrains IDE splash screens(启动画面) <https://gitee.com/feuyeux/splash-scr
 
 ## 1 [CLion](https://www.jetbrains.com/clion/)
 
-![clion](img/clion_splash@2x.pngx)
+[//]: # (![clion]&#40;img/clion_splash@2x.png&#41;)
 
 ![nova](img/nova_splash@2x.png)
 
@@ -40,17 +40,22 @@ Path(路径)："lib/app.jar/pycharm_core_logo@2x.png" | "lib/product.jar/artwork
 
 Path(路径)："lib/app.jar/pycharm_logo@2x.png" | "lib/product.jar/artwork/pycharm_logo@2x.png"
 
-## 5 [Rider](https://www.jetbrains.com/rider/)
+[//]: # (## 5 [Rider]&#40;https://www.jetbrains.com/rider/&#41;)
 
-![rider](img/rider_splash@2x.pngx)
+[//]: # ()
+[//]: # (![rider]&#40;img/rider_splash@2x.png&#41;)
 
-Path(路径)："lib/product.jar/rider/artwork/release/splash@2x.png"
+[//]: # ()
+[//]: # (Path&#40;路径&#41;："lib/product.jar/rider/artwork/release/splash@2x.png")
 
-## 6 [RustRover](https://www.jetbrains.com/rustrover/ )
+[//]: # ()
+[//]: # (## 6 [RustRover]&#40;https://www.jetbrains.com/rustrover/ &#41;)
 
-![rustrover](img/rustrover_splash@2x.pngx)
+[//]: # ()
+[//]: # (![rustrover]&#40;img/rustrover_splash@2x.png&#41;)
 
-Path(路径)："lib/product.jar/artwork/splash@2x.png"
+[//]: # ()
+[//]: # (Path&#40;路径&#41;："lib/product.jar/artwork/splash@2x.png")
 
 ## 7 [WebStorm](https://www.jetbrains.com/webstorm/ )
 
