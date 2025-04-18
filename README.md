@@ -1,8 +1,8 @@
 <!-- markdownlint-disable MD033 MD045 -->
 
-# JetBrains splash screens[2024.3]
+# JetBrains splash screens[2025.1]
 
-JetBrains IDE splash screens(启动画面) <https://gitee.com/feuyeux/splash-screens>
+JetBrains IDE splash screens(启动画面)
 
 ## 1 [CLion](https://www.jetbrains.com/clion/)
 
@@ -38,13 +38,11 @@ Path(路径)："lib/app.jar/idea_community_logo@2x.png"
 
 Path(路径)："lib/app-client.jar/pycharm_core_logo@2x.png"
 
-[//]: # (## [PyCharm]&#40;https://www.jetbrains.com/pycharm/ &#41; Professional)
+## [PyCharm](https://www.jetbrains.com/pycharm/) Professional
 
-[//]: #
-[//]: # (![pycharm]&#40;img/pycharm_logo@2x.pngx&#41;)
+![pycharm](img/pycharm_logo@2x.png)
 
-[//]: #
-[//]: # (Path&#40;路径&#41;："lib/app.jar/pycharm_logo@2x.png" | "lib/product.jar/artwork/pycharm_logo@2x.png")
+Path(路径)："lib/app.jar/pycharm_logo@2x.png" | "lib/product.jar/artwork/pycharm_logo@2x.png")
 
 ## 5 [Rider](https://www.jetbrains.com/rider/)
 
