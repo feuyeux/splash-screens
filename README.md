@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD045 -->
 
-# JetBrains splash screens[2025.1]
+# JetBrains splash screens[2025.2]
 
 JetBrains IDE splash screens(启动画面)
 
@@ -8,9 +8,7 @@ JetBrains IDE splash screens(启动画面)
 
 ![clion](img/clion_splash@2x.png)
 
-[//]: # (![nova]&#40;img/nova_splash@2x.png&#41;)
-
-Path(路径)："lib/product.jar/artwork/splash@2x.png"
+Path(路径)："lib/product.jar/artwork/clion_splash@2x.png"
 
 ## 2 [GoLand](https://www.jetbrains.com/go/ )
 
@@ -24,25 +22,17 @@ Path(路径)："lib/product.jar/artwork/splash@2x.png"
 
 Path(路径)："lib/app.jar/idea_community_logo@2x.png"
 
-[//]: # (## IntelliJ [IDEA]&#40;https://www.jetbrains.com/idea/&#41; Ultimate)
+## IntelliJ [IDEA](https://www.jetbrains.com/idea/) Ultimate
 
-[//]: #
-[//]: # (![idea]&#40;img/idea_logo@2x.png&#41;)
+![idea](img/idea_logo@2x.png)
 
-[//]: #
-[//]: # (Path&#40;路径&#41;："lib/product.jar/idea_logo@2x.png")
+Path(路径)："lib/product.jar/idea_logo@2x.png"
 
-## 4 [PyCharm](https://www.jetbrains.com/pycharm/ ) Community
-
-![pycharmc](img/pycharm_core_logo@2x.png)
-
-Path(路径)："lib/app-client.jar/pycharm_core_logo@2x.png"
-
-## [PyCharm](https://www.jetbrains.com/pycharm/) Professional
+## 4 [PyCharm](https://www.jetbrains.com/pycharm/ )
 
 ![pycharm](img/pycharm_logo@2x.png)
 
-Path(路径)："lib/app.jar/pycharm_logo@2x.png" | "lib/product.jar/artwork/pycharm_logo@2x.png")
+Path(路径)："lib/app.jar/pycharm_logo@2x.png")
 
 ## 5 [Rider](https://www.jetbrains.com/rider/)
 
