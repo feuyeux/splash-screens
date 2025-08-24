@@ -56,5 +56,4 @@ Path(路径)："lib/app.jar/artwork/webide_logo@2x.png"
 
 ![phpstorm](img/phpstorm_webide_logo@2x.png)
 
-
 Path(路径)："lib/app.jar/artwork/webide_logo@2x.png"
