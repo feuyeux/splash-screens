@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD045 -->
 
-# JetBrains splash screens[2025.2]
+# JetBrains splash screens[2026.1]
 
 JetBrains IDE splash screens(启动画面)
 
