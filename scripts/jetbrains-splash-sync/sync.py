@@ -116,7 +116,8 @@ IDE_SECTION_RE = re.compile(
     re.MULTILINE,
 )
 JAR_PATH_RE = re.compile(
-    r"Path\s*[(:（]\s*路径\s*[):）][^\"\n]*\"(?P<jar>[^\"\n]+)\"",
+    # README wraps the path in either "..." or `...` (both styles supported).
+    r"Path\s*[(:（]\s*路径\s*[):）][^\"'\n]*[\"`](?P<jar>[^\"'`\n]+)[\"`]",
     re.MULTILINE,
 )
 IMG_REF_RE = re.compile(r"!\[.*?\]\(img/(?P<file>[^)]+)\)")
