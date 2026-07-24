@@ -27,19 +27,19 @@ Path(路径)："lib\intellij.idea.ultimate.customization.jar\idea_logo@2x.png"
 
 ![pycharm](img/pycharm_logo@2x.png)
 
-Path(路径)："lib\product-backend.jar\pycharm_logo@2x.png")
+Path(路径)："lib\intellij.pycharm.pro.jar\pycharm_logo@2x.png")
 
 ## 5 [Rider](https://www.jetbrains.com/rider/)
 
 ![rider](img/rider_splash@2x.png)
 
-Path(路径)："lib\app-backend.jar\rider\artwork\release\splash@2x.png"
+Path(路径)："lib\intellij.rider.branding.jar\rider\artwork\release\splash@2x.png"
 
 ## 6 [RustRover](https://www.jetbrains.com/rustrover/ )
 
 ![rustrover](img/rustrover_splash@2x.png)
 
-Path(路径)："lib\product-backend.jar\artwork\splash@2x.png"
+Path(路径)："lib\intellij.rustrover.jar\artwork\splash@2x.png"
 
 ## 7 [WebStorm](https://www.jetbrains.com/webstorm/ )
 
